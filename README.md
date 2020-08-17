@@ -3,7 +3,7 @@ J-Trak is a job tracking tool used to track job applications and contacts.
 
 
 ## Motivation
-Wanted an interactive web app to log job tracking
+Wanted an interactive web app to log job tracking.
 
 
 ## Features
